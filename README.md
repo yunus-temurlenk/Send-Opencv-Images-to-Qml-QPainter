@@ -1,4 +1,6 @@
-# SendVideoToQmlWithQPaint
+# SendVideoToQmlWithQPainter
+
+Another way to send Opencv Mat Images to Qml Side. Check the video for details.
 
 
 # [YouTube Video Link](https://www.youtube.com/watch?v=ifQ0CZLZiXE)
