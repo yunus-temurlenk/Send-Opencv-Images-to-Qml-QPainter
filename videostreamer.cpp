@@ -10,7 +10,7 @@ VideoStreamer::~VideoStreamer()
     cap.release();
     tUpdate.stop();
     threadStreamer->requestInterruption();
-}r
+}
 
 
 
